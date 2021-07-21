@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/KlumsyKamikaze/array-explorer.git/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/KlumsyKamikaze/array-explorer.git/static/js/main.a610aee6.chunk.js",
+    "main.js.map": "/KlumsyKamikaze/array-explorer.git/static/js/main.a610aee6.chunk.js.map",
+    "runtime-main.js": "/KlumsyKamikaze/array-explorer.git/static/js/runtime-main.7e3734c8.js",
+    "runtime-main.js.map": "/KlumsyKamikaze/array-explorer.git/static/js/runtime-main.7e3734c8.js.map",
+    "static/js/2.36e5ec31.chunk.js": "/KlumsyKamikaze/array-explorer.git/static/js/2.36e5ec31.chunk.js",
+    "static/js/2.36e5ec31.chunk.js.map": "/KlumsyKamikaze/array-explorer.git/static/js/2.36e5ec31.chunk.js.map",
+    "static/js/3.619ece76.chunk.js": "/KlumsyKamikaze/array-explorer.git/static/js/3.619ece76.chunk.js",
+    "static/js/3.619ece76.chunk.js.map": "/KlumsyKamikaze/array-explorer.git/static/js/3.619ece76.chunk.js.map",
+    "index.html": "/KlumsyKamikaze/array-explorer.git/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/KlumsyKamikaze/array-explorer.git/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.36e5ec31.chunk.js.LICENSE.txt": "/KlumsyKamikaze/array-explorer.git/static/js/2.36e5ec31.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/KlumsyKamikaze/array-explorer.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e3734c8.js",
+    "static/js/2.36e5ec31.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.a610aee6.chunk.js"
+  ]
+}
