@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/KlumsyKamikaze/array-explorer/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/KlumsyKamikaze/array-explorer/static/js/main.a610aee6.chunk.js",
-    "main.js.map": "/KlumsyKamikaze/array-explorer/static/js/main.a610aee6.chunk.js.map",
-    "runtime-main.js": "/KlumsyKamikaze/array-explorer/static/js/runtime-main.7ce115a4.js",
-    "runtime-main.js.map": "/KlumsyKamikaze/array-explorer/static/js/runtime-main.7ce115a4.js.map",
-    "static/js/2.36e5ec31.chunk.js": "/KlumsyKamikaze/array-explorer/static/js/2.36e5ec31.chunk.js",
-    "static/js/2.36e5ec31.chunk.js.map": "/KlumsyKamikaze/array-explorer/static/js/2.36e5ec31.chunk.js.map",
-    "static/js/3.619ece76.chunk.js": "/KlumsyKamikaze/array-explorer/static/js/3.619ece76.chunk.js",
-    "static/js/3.619ece76.chunk.js.map": "/KlumsyKamikaze/array-explorer/static/js/3.619ece76.chunk.js.map",
-    "index.html": "/KlumsyKamikaze/array-explorer/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/KlumsyKamikaze/array-explorer/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.36e5ec31.chunk.js.LICENSE.txt": "/KlumsyKamikaze/array-explorer/static/js/2.36e5ec31.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/KlumsyKamikaze/array-explorer/static/media/logo.6ce24c58.svg"
+    "main.css": "/array-explorer/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/array-explorer/static/js/main.a610aee6.chunk.js",
+    "main.js.map": "/array-explorer/static/js/main.a610aee6.chunk.js.map",
+    "runtime-main.js": "/array-explorer/static/js/runtime-main.89ab0f91.js",
+    "runtime-main.js.map": "/array-explorer/static/js/runtime-main.89ab0f91.js.map",
+    "static/js/2.36e5ec31.chunk.js": "/array-explorer/static/js/2.36e5ec31.chunk.js",
+    "static/js/2.36e5ec31.chunk.js.map": "/array-explorer/static/js/2.36e5ec31.chunk.js.map",
+    "static/js/3.619ece76.chunk.js": "/array-explorer/static/js/3.619ece76.chunk.js",
+    "static/js/3.619ece76.chunk.js.map": "/array-explorer/static/js/3.619ece76.chunk.js.map",
+    "index.html": "/array-explorer/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/array-explorer/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.36e5ec31.chunk.js.LICENSE.txt": "/array-explorer/static/js/2.36e5ec31.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/array-explorer/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7ce115a4.js",
+    "static/js/runtime-main.89ab0f91.js",
     "static/js/2.36e5ec31.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
     "static/js/main.a610aee6.chunk.js"
